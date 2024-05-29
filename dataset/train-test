@@ -1,0 +1,3 @@
+A base de dados do trabalho já veio separada em treino e teste. São os seguintes arquivos:
+* horse.csv - o conjunto de dados de treinamento
+* horseTest.csv - o conjunto de dados de teste
